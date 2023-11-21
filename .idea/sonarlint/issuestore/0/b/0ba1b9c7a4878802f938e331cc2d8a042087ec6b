@@ -1,0 +1,10 @@
+
+>
+java:S1643i"Use a StringBuilder instead.(Æý¤óüÿÿÿÿ8Õ–¢õ¾1
+F	java:S106l"+Replace this use of System.out by a logger.(ê¨ :8”˜¢õ¾1
+L	java:S106u"+Replace this use of System.out by a logger.(—ÐµËþÿÿÿÿ8—˜¢õ¾1
+L	java:S106z"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8˜˜¢õ¾1
+G	java:S106—"+Replace this use of System.out by a logger.(‚š‰18š˜¢õ¾1
+Y	java:S125˜"<This block of commented-out lines of code should be removed.(é®®8š˜¢õ¾1
+\
+java:S1128":Remove this unused import 'org.junit.Assert.assertEquals'.(¿Ù‹Ÿþÿÿÿÿ8©Õ¢õ¾1
